@@ -1,0 +1,17 @@
+body{
+    background-color: darkgreen;
+    color: aliceblue;
+}
+nav {
+    color: white ;
+    text-decoration: none;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+div img{
+    width: 600px;
+    height: 400px;
+
+}
